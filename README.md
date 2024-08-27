@@ -2,7 +2,7 @@
 - 👀 I’m interested in games and food
 - 🌱 I’m currently learning on how to make websites
 - 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me on instagram @_dumb.person_
+- 📫 How to reach me on instagram @__dumb.person__
 
 <!---
 dumbbyperson/dumbbyperson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
