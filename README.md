@@ -1,5 +1,6 @@
-🧠​ International Baccalaureate student at Garodia International Centre for Learning Mumbai
-​🌌​ I try to create projects that are relevant and help me with my future work
+🧠​ International Baccalaureate student at Garodia International Centre for Learning Mumbai</br>
+
+​🌌​ I try to create relevant projects and help me with my future work</br>
 
 
 ## 🌐 Socials:
