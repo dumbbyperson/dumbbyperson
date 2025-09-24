@@ -16,8 +16,7 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=dumbbyperson&icon=0&color=0)](https://visitcount.itsvg.in)
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="murtuza3037" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ie.linkedin.com/in/murtuza3037?trk=profile-badge">Murtuza Moosa</a></div>
+
               
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
