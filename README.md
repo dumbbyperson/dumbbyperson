@@ -1,4 +1,4 @@
-🧠​ International Baccalaureate student at Garodia International Centre for Learning Mumbai</br>
+🧠​ International Baccalaureate student trying to figure out things</br>
 
 ​🌌​ I try to create relevant projects and help me with my future work</br>
 
