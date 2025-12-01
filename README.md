@@ -1,6 +1,6 @@
 🧠​ International Baccalaureate student trying to figure out things</br>
 
-​🌌​ I try to create relevant projects and help me with my future work</br>
+​🌌​ I try to create relevant projects which help me with my future work</br>
 
 
 ## 🌐 Socials:
