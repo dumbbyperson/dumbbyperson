@@ -2,7 +2,7 @@
 🔭 I’m currently working on<br>Projects in physics simulations, AI systems, and embedded electronics. Building tools that connect computing with real-world engineering problems.<br><br>👯 I’m looking to collaborate on<br>Open source projects in computer science, robotics, AI, and space tech. Especially anything involving data, hardware, or scientific modeling.<br><br>🤝 I’m looking for help with<br>Advanced math concepts, optimization techniques, and improving large-scale system design.<br><br>🌱 I’m currently learning<br>Computer and Electronics Engineering fundamentals, data structures, AI models, and applied physics.<br><br>💬 Ask me about<br>IB subjects, physics projects, machine learning basics, seismic modeling, or building student-led tech initiatives.<br><br>⚡ Fun fact<br>I enjoy turning school assignments into long-term engineering projects and research ideas.
 
 
-## 🌐 Socials: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin,com/in/murtuza-moosa) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:contact.monstrous803@slmail.me) 
+## 🌐 Socials: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/murtuza-moosa) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:contact.monstrous803@slmail.me) 
 
 ## 💻 Tech Stack:
 
